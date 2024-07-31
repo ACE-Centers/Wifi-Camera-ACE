@@ -1,5 +1,5 @@
 //% blockId=WIFI_Camera block="WIFI_Camera"
-//%color="#228B22" weight=25 icon="\uf06e"
+//%color="#585CA9" weight=25 icon="\uf06e"
 namespace WIFI_Camera_ACE {
 
 
